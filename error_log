@@ -1,0 +1,10 @@
+[28-Feb-2023 20:23:41 America/New_York] PHP Warning:  require(/home/hafdbjvy/sydegig.co/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hafdbjvy/sydegig.co/index.php on line 24
+[28-Feb-2023 20:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hafdbjvy/sydegig.co/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hafdbjvy/sydegig.co/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/hafdbjvy/sydegig.co/index.php on line 24
+[28-Feb-2023 20:25:38 America/New_York] PHP Warning:  require(/home/hafdbjvy/sydegig.co/../sydegig/vendor/autoload.php): Failed to open stream: No such file or directory in /home/hafdbjvy/sydegig.co/index.php on line 24
+[28-Feb-2023 20:25:38 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hafdbjvy/sydegig.co/../sydegig/vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/hafdbjvy/sydegig.co/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/hafdbjvy/sydegig.co/index.php on line 24
